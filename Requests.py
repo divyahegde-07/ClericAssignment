@@ -21,7 +21,7 @@ from langchain.prompts import PromptTemplate
 import urllib
 import requests
 
-OPENAI_API_KEY = 'sk-proj-tib8WcPMJXETMv3N0d0OT3BlbkFJSe5Q0FtLR1REI3M8vi7z'
+OPENAI_API_KEY = 'OPEN_API_KEY_GOES_HERE'
 app = FastAPI()
 log_url_list = []
 question = ''
